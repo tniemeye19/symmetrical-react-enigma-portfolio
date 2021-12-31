@@ -4,9 +4,9 @@ import profilePicture from '../../assets/images/profile-picture.jpg';
 
 function About() {
     return (
-        <div className="ps-4 pe-4">
-            <h2 className="mt-4">About Me</h2>
-            <img src={profilePicture} alt='profile' className="mt-3" />
+        <div className="about">
+            <h2>About Me</h2>
+            <img src={profilePicture} alt='profile' />
             <p className="mt-3 lh-sm">
                 Ut esse nostrud mollit dolore pariatur commodo minim non. Proident nostrud fugiat proident ullamco cupidatat eu commodo nisi ad. Qui enim eiusmod occaecat quis sint Lorem reprehenderit nostrud incididunt enim. Labore magna nostrud incididunt dolore tempor quis do pariatur mollit aute laborum. Aliqua commodo cupidatat ea mollit voluptate aute sunt sint veniam ea aliqua magna occaecat. Ut ea consequat proident exercitation non tempor ex irure elit irure ut deserunt proident. Voluptate Lorem tempor occaecat dolore sunt quis. Ipsum consequat consectetur do nostrud dolore amet eiusmod proident ipsum et commodo in exercitation. Sit labore incididunt adipisicing excepteur officia commodo. 
             </p>
