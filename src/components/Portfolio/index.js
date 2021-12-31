@@ -1,11 +1,11 @@
 import React from 'react';
-import RepoList from '../RepoList';
+import Project from '../Project';
 
 function Portfolio() {
     return (
         <div className='portfolio'>
             <h2>Portfolio</h2>
-            <RepoList />
+            <Project />
         </div>
     )
 }
