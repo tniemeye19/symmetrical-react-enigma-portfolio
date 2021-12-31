@@ -1,0 +1,28 @@
+header {
+    background-color: #747474;
+    width: 100%;
+}
+header h1 {
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+}
+header h1 a {
+    color: #e9e8e8;
+}
+header h1 a:hover {
+    color: #272f53;
+}
+header nav ul {
+    list-style: none;
+}
+header nav ul li {
+    padding: 0 2rem;
+}
+header nav ul li a {
+    color: #e9e8e8;
+}
+header nav ul li a:hover {
+   color: #272f53; 
+}
+header nav ul li a:focus {
+    color: #272f53; 
+ }    
