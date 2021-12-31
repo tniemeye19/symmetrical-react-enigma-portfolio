@@ -2,6 +2,8 @@ import './App.css';
 import Navigation from './components/Navigation';
 import About from './components/About';
 
+import Footer from './components/Footer';
+
 function App() {
 
   return (
@@ -10,9 +12,7 @@ function App() {
       <main>
         <About />
       </main>
-      <footer>
-
-      </footer>
+      <Footer />
     </div>
   );
 }
