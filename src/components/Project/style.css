@@ -1,0 +1,33 @@
+.project {
+    display: flex;
+    height: 300px;
+    width: 85%;
+    margin: 1rem;
+}
+
+.project img {
+    position: relative;
+    height: 300px;
+    width: 49%;
+    object-fit: cover;
+}
+
+.project-info {
+    display: flex;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.project-info h3, .project-info i {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 0.3rem;
+}
+
+.project-info h3 a, .project-info i a {
+    color: white;
+    text-decoration: none;
+}
+
+
+

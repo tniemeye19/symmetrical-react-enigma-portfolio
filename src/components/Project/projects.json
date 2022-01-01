@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Table Top Warriors",
+        "image": "ttw-home",
+        "appLink": "https://glacial-wave-35066.herokuapp.com/",
+        "githubLink": "https://github.com/Ericcrain77/table-top-warriors"
+    },
+    {
+        "title": "Crypto Watcher",
+        "image": "cw-home",
+        "appLink": "https://john-harris-iii.github.io/crypto-watcher/",
+        "githubLink": "https://github.com/john-harris-iii/crypto-watcher"
+    },
+    {
+        "title": "The Tech Blog",
+        "image": "ttb-home",
+        "appLink": "https://intense-lowlands-43802.herokuapp.com/",
+        "githubLink": "https://github.com/tniemeye19/mvc-tech-blog"
+    },
+    {
+        "title": "Weather Dashboard",
+        "image": "wd-home",
+        "appLink": "https://tniemeye19.github.io/weather-dashboard/",
+        "githubLink": "https://github.com/tniemeye19/weather-dashboard"
+    },
+    {
+        "title": "JS Timed Quiz",
+        "image": "jstq-home",
+        "appLink": "https://tniemeye19.github.io/js-timed-quiz/",
+        "githubLink": "https://github.com/tniemeye19/js-timed-quiz"
+    },
+    {
+        "title": "Work Day Scheduler",
+        "image": "wds-home",
+        "appLink": "https://tniemeye19.github.io/work-day-scheduler/",
+        "githubLink": "https://github.com/tniemeye19/work-day-scheduler"
+    }
+]
