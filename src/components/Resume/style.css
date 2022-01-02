@@ -1,0 +1,46 @@
+.resume {
+    margin: 3rem;
+    text-align: center;
+}
+
+.skills, .employment {
+    margin: 2rem ;
+}
+
+.card {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+.card.skills-card {
+    flex-direction: row;
+    width: fit-content;
+    background-color: #747474;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-body.skills-card-body {
+    flex-direction: row;
+    width: fit-content;
+    background-color: #747474;
+}
+
+.card-text.skills-card-text {
+    margin: 0.5rem 1rem;
+    display: inline-block;
+}
+
+.card.employment-card {
+    display: flex;
+    margin: 1rem;
+    background-color: #747474;
+    text-align: left;
+}
+
+.card-subtitle.title {
+    margin-bottom: 0.4rem
+}
+
+.card-text.description {
+    margin-top: 0.4rem;
+}
