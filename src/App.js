@@ -27,7 +27,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{  backgroundColor: '#272f53'}}>
       <Navigation
         currentDisplay={currentDisplay}
         setCurrentDisplay={setCurrentDisplay}
