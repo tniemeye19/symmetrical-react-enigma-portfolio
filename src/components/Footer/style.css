@@ -1,11 +1,13 @@
-i {
-    font-size: 36px;
+.footer i {
     margin: 2rem 2rem;
-
-    color: #747474
 }
 
-i:hover {
-    color: #e9e8e8;
-    cursor: pointer;
+.footer a {
+    text-decoration: none;
+    font-size: 36px;
+    color: #747474 !important
+}
+
+.footer a:hover {
+    color: #e9e8e8 !important
 }

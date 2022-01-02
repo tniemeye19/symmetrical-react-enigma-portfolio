@@ -3,11 +3,13 @@ import './style.css';
 
 function Navigation(props) {
 
+    let name = '< Timothy Niemeyer />';
+
     return (
         <header className="d-flex flex-wrap justify-content-between ps-4 pe-4 pt-auto pb-auto">
             <h1 className="fw-bold">
                 <a href="/" className="text-decoration-none">
-                    Timothy Niemeyer
+                    {name}
                 </a>
             </h1>
             <nav className="d-flex flex-wrap ms-2 me-2 mt-auto mb-auto">
