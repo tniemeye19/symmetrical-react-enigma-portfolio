@@ -1,0 +1,13 @@
+.contact {
+    margin: 3rem;
+}
+
+.form-box label {
+    display: block;
+    margin: 1rem 15px 0 0;
+    width: 125px;
+}
+
+.form-box input, .form-box textarea {
+    width: 250px;
+}

@@ -1,7 +1,8 @@
 import './App.css';
 import Navigation from './components/Navigation';
-// import About from './components/About';
+import About from './components/About';
 import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
 
 import Footer from './components/Footer';
 
@@ -11,8 +12,9 @@ function App() {
     <div className="App">
       <Navigation />
       <main>
-        {/* <About /> */}
+        <About />
         <Portfolio />
+        <Contact />
       </main>
       <Footer />
     </div>
