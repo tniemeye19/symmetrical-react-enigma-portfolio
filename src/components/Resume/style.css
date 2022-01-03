@@ -1,6 +1,9 @@
 .resume {
     margin: 3rem;
     text-align: center;
+
+    animation: fadeIn;
+    animation-duration: 2s;
 }
 
 .skills, .employment {
@@ -35,6 +38,15 @@
     margin: 1rem;
     background-color: #747474;
     text-align: left;
+}
+
+.employment-card img {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 1rem;
+    border: 3px solid #747474;
+    border-radius: 5px;
 }
 
 .card-subtitle.title {

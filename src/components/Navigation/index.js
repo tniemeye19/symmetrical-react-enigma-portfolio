@@ -1,6 +1,8 @@
 import React from 'react';
 import './style.css';
 
+import 'animate.css';
+
 function Navigation(props) {
 
     let name = '< Timothy Niemeyer />';

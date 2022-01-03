@@ -10,7 +10,7 @@ function Project() {
             {
                 projects && projects.length > 0 && projects.map((project) =>
                 <div className="project col-4">
-                    <img src={require('../../assets/images/' + project.image + '.png')} alt={project.title} />
+                    <img src={require('../../assets/images/applications/' + project.image + '.png')} alt={project.title} />
                     <div className="project-info">
                         <h3>{project.title}</h3>
                         <p>{project.description}</p>

@@ -1,22 +1,31 @@
 .contact-container {
-    margin: 3rem !important;
+    margin-top: 3rem;
     position: relative;
     height: 100%;
     width: 100%;
+
+    animation: fadeIn;
+    animation-duration: 2s;
 }
 
 .contact-container h2 {
-    margin-bottom: 3rem
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
 }
 
 .contact, .info {
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    justify-content: center;
 }
 
 .contact-form {
     width: 100%;
+    justify-content: center;
+}
+.contact-form button {
+    margin-top: 1rem;
 }
 
 .form-box label {
@@ -34,3 +43,4 @@
     padding-right: auto;
     text-align: center;
 }
+
