@@ -44,3 +44,12 @@
 .card-text.description {
     margin-top: 0.4rem;
 }
+
+.employer, .title, .duration {
+    text-align: center;
+}
+
+.description {
+    text-align: justify;
+}
+

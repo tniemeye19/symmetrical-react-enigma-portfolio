@@ -1,13 +1,36 @@
-.contact {
-    margin: 3rem;
+.contact-container {
+    margin: 3rem !important;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.contact-container h2 {
+    margin-bottom: 3rem
+}
+
+.contact, .info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-form {
+    width: 100%;
 }
 
 .form-box label {
     display: block;
     margin: 1rem 15px 0 0;
-    width: 125px;
+    width: 25%;
 }
 
 .form-box input, .form-box textarea {
-    width: 250px;
+    width: 75%;
+}
+
+.info {
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
 }

@@ -4,3 +4,7 @@
     justify-content: center;
     display: flex;
 }
+
+.portfolio h2 {
+    margin-bottom: 3rem;
+}
