@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-// HTMLCSSJavaScriptNode.jsExpress.jsMySQLMongoDBReactAngularTypeScriptWordExcelPowerpoint
+import { FaCloudDownloadAlt } from 'react-icons/fa';
 import './style.css';
 import jobs from './jobs.json';
 import skills from './skills.js';
@@ -38,6 +38,9 @@ function Resume() {
                         </Card.Body>
                     </Card>)
                 }
+                <p>Download my full resume here: </p>
+                {/* Download functionality will have to be added later */}
+                <a href="/"><FaCloudDownloadAlt class="download"/></a>
             </div>
         </section>
     )

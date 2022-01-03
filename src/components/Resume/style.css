@@ -65,3 +65,15 @@
     text-align: justify;
 }
 
+a .download {
+    font-size: 2rem;
+    color: #747474;
+    transition: color 0.5s;
+}
+
+a .download:hover {
+    color: #e9e8e8;
+}
+
+
+
