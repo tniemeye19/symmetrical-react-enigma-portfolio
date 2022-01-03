@@ -9,7 +9,7 @@ function Project() {
         <div className="projects row justify-content-center">
             {
                 projects && projects.length > 0 && projects.map((project) =>
-                <div className="project col-4">
+                <div className="project col-lg-5 col-md-11">
                     <img src={require('../../assets/images/applications/' + project.image + '.png')} alt={project.title} />
                     <div className="project-info">
                         <h3>{project.title}</h3>

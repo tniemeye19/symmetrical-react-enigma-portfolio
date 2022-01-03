@@ -28,7 +28,7 @@ function Resume() {
                 <h3>Employment</h3>
                 {
                     jobs && jobs.length > 0 && jobs.map((job) => 
-                    <Card className='employment-card col-4'>
+                    <Card className='employment-card col-lg-5 col-md-12'>
                         <img src={require('../../assets/images/jobs/' + job.icon + '.jpg')} alt={job.employer}/>
                         <Card.Body>
                             <Card.Title className='employer'>{job.employer}</Card.Title>
