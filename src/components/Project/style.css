@@ -1,7 +1,8 @@
 .project {
     position: relative;
-    margin: 1rem;
     justify-content: center;
+    margin-bottom: 1rem;
+    width: 100%;
 }
 
 .project img {
@@ -22,7 +23,7 @@
     align-items: center;
     justify-content: center;
     height: 100%;
-    width: 96.2%;
+    width: 97%;
     opacity: 0;
     transition: opacity 0.5s;
     background: rgba(116, 116, 116, 1);

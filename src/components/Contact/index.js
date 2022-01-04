@@ -37,8 +37,9 @@ function Contact() {
     return (
         <div className="contact-container d-flex justify-content-center row">
             <h2>Contact Me</h2>
-            <section className="contact col-4">
-                <form className="contact-form" onSubmit={handleSubmit}>
+            <section className="contact col-lg-4 col-md-8 col-sm-8">
+                <div className="contact-form">
+                <form onSubmit={handleSubmit}>
                     <div className='form-box'>
                         <label htmlFor='name'>Name:</label>
                         <input type='text' name='name' defaultValue={name} onBlur={handleChange} />
@@ -58,8 +59,10 @@ function Contact() {
                     )}
                     <button className="btn btn-success" type="submit">Send Message</button>
                 </form>
+                </div>
+
             </section>
-            <section className='info col-4'>
+            <section className='info col-lg-4 col-md-8 col-sm-8'>
                 <h3>If you would like to talk about a project or simply say hello, I'd love to hear from you!
                     <br></br>
                     All you need to do is fill out this form and send me an email.
