@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/symmetrical-react-enigma-portfolio/static/css/main.40a0908d.css",
-    "main.js": "/symmetrical-react-enigma-portfolio/static/js/main.0017b2be.js",
+    "main.css": "/symmetrical-react-enigma-portfolio/static/css/main.49053e27.css",
+    "main.js": "/symmetrical-react-enigma-portfolio/static/js/main.fba63b9b.js",
     "static/js/787.2b0aa414.chunk.js": "/symmetrical-react-enigma-portfolio/static/js/787.2b0aa414.chunk.js",
     "static/media/concrete.jpg": "/symmetrical-react-enigma-portfolio/static/media/concrete.bc7812dae310e437950d.jpg",
     "static/media/knoxville.jpg": "/symmetrical-react-enigma-portfolio/static/media/knoxville.301b37c61f383faf6e80.jpg",
@@ -16,12 +16,12 @@
     "static/media/tpg-home.png": "/symmetrical-react-enigma-portfolio/static/media/tpg-home.2d4f095ce7fdc4d099f7.png",
     "static/media/jstq-home.png": "/symmetrical-react-enigma-portfolio/static/media/jstq-home.e01ba466e9297a267049.png",
     "index.html": "/symmetrical-react-enigma-portfolio/index.html",
-    "main.40a0908d.css.map": "/symmetrical-react-enigma-portfolio/static/css/main.40a0908d.css.map",
-    "main.0017b2be.js.map": "/symmetrical-react-enigma-portfolio/static/js/main.0017b2be.js.map",
+    "main.49053e27.css.map": "/symmetrical-react-enigma-portfolio/static/css/main.49053e27.css.map",
+    "main.fba63b9b.js.map": "/symmetrical-react-enigma-portfolio/static/js/main.fba63b9b.js.map",
     "787.2b0aa414.chunk.js.map": "/symmetrical-react-enigma-portfolio/static/js/787.2b0aa414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40a0908d.css",
-    "static/js/main.0017b2be.js"
+    "static/css/main.49053e27.css",
+    "static/js/main.fba63b9b.js"
   ]
 }
