@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/symmetrical-react-enigma-portfolio/static/css/main.49053e27.css",
-    "main.js": "/symmetrical-react-enigma-portfolio/static/js/main.fba63b9b.js",
+    "main.js": "/symmetrical-react-enigma-portfolio/static/js/main.dd53d619.js",
     "static/js/787.2b0aa414.chunk.js": "/symmetrical-react-enigma-portfolio/static/js/787.2b0aa414.chunk.js",
     "static/media/concrete.jpg": "/symmetrical-react-enigma-portfolio/static/media/concrete.bc7812dae310e437950d.jpg",
     "static/media/knoxville.jpg": "/symmetrical-react-enigma-portfolio/static/media/knoxville.301b37c61f383faf6e80.jpg",
     "static/media/carparts.jpg": "/symmetrical-react-enigma-portfolio/static/media/carparts.da3449d1582792678aad.jpg",
     "static/media/profile-picture.jpg": "/symmetrical-react-enigma-portfolio/static/media/profile-picture.187f6ae2987dc0f0019e.jpg",
     "static/media/airforce.jpg": "/symmetrical-react-enigma-portfolio/static/media/airforce.b93cbc7122075f201f44.jpg",
+    "static/media/4monfit.png": "/symmetrical-react-enigma-portfolio/static/media/4monfit.1b43b8aa69204f55224c.png",
     "static/media/ttw-home.png": "/symmetrical-react-enigma-portfolio/static/media/ttw-home.79e8ef4358e47aaa0882.png",
     "static/media/cw-home.png": "/symmetrical-react-enigma-portfolio/static/media/cw-home.cac51bcda282fbefd2c3.png",
     "static/media/wd-home.png": "/symmetrical-react-enigma-portfolio/static/media/wd-home.4a26ca1e46f3cb4c9375.png",
@@ -17,11 +18,11 @@
     "static/media/jstq-home.png": "/symmetrical-react-enigma-portfolio/static/media/jstq-home.e01ba466e9297a267049.png",
     "index.html": "/symmetrical-react-enigma-portfolio/index.html",
     "main.49053e27.css.map": "/symmetrical-react-enigma-portfolio/static/css/main.49053e27.css.map",
-    "main.fba63b9b.js.map": "/symmetrical-react-enigma-portfolio/static/js/main.fba63b9b.js.map",
+    "main.dd53d619.js.map": "/symmetrical-react-enigma-portfolio/static/js/main.dd53d619.js.map",
     "787.2b0aa414.chunk.js.map": "/symmetrical-react-enigma-portfolio/static/js/787.2b0aa414.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49053e27.css",
-    "static/js/main.fba63b9b.js"
+    "static/js/main.dd53d619.js"
   ]
 }
